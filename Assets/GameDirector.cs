@@ -4,6 +4,8 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
+
+// 一旦不使用
 public class GameDirector : MonoBehaviour
 {
     // 「もう一度」ボタン
